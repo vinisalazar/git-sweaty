@@ -11620,5 +11620,31 @@
     "start_date_local": "2026-03-02T12:58:00Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 437.0,
+    "elevation_gain": 0.0,
+    "id": "17582113258",
+    "moving_time": 122.0,
+    "name": "2:01 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-03T10:49:58Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 13090.5,
+    "elevation_gain": 0.0,
+    "id": "17582665343",
+    "moving_time": 3959.0,
+    "name": "3x20:00/3:00r row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-03T10:54:00Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
