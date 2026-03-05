@@ -8081,6 +8081,51 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17600803555",
       "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 15,
+      "name": "0:45 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17609029360",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 15,
+      "name": "20:00 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17609098263",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 16,
+      "name": "v1:00/1:00r...3 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17609135413",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 16,
+      "name": "0:28 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17609152072",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 16,
+      "name": "0:23 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17609181013",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13970,6 +14015,19 @@
           "distance": 11231.0,
           "elevation_gain": 0.0,
           "moving_time": 4800.0
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "17609029360",
+            "17609098263",
+            "17609135413",
+            "17609152072",
+            "17609181013"
+          ],
+          "count": 5,
+          "distance": 6035.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1632.0
         }
       },
       "Run": {
@@ -14211,7 +14269,7 @@
       }
     }
   },
-  "generated_at": "2026-03-04T15:39:01.490069+00:00",
+  "generated_at": "2026-03-05T15:49:36.394587+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
