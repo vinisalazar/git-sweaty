@@ -8144,6 +8144,33 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17630979798",
       "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17667590655",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17669388487",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 18,
+      "name": "Remi 2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17669388557",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14064,6 +14091,15 @@
           "distance": 11411.6,
           "elevation_gain": 0.0,
           "moving_time": 3000.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17669388557"
+          ],
+          "count": 1,
+          "distance": 13232.5,
+          "elevation_gain": 295.7,
+          "moving_time": 4346.0
         }
       },
       "Run": {
@@ -14290,6 +14326,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 221.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17667590655",
+            "17669388487"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3741.0
         }
       },
       "Yoga": {
@@ -14305,7 +14351,7 @@
       }
     }
   },
-  "generated_at": "2026-03-09T15:57:37.833639+00:00",
+  "generated_at": "2026-03-10T15:58:38.440405+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
