@@ -11802,5 +11802,44 @@
     "start_date_local": "2026-03-10T18:17:44Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17689967199",
+    "moving_time": 2470.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-12T07:16:19Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17694506068",
+    "moving_time": 390.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-12T18:08:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 12461.5,
+    "elevation_gain": 280.8,
+    "id": "17694506266",
+    "moving_time": 4254.0,
+    "name": "Evening Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-12T18:35:38Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
