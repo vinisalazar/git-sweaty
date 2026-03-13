@@ -8193,10 +8193,19 @@
     {
       "date": "2026-03-12",
       "hour": 18,
-      "name": "Evening Row",
+      "name": "QT 4X\u2013",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17694506266",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 19,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17705364499",
       "year": 2026
     }
   ],
@@ -14382,6 +14391,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2860.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17705364499"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 573.0
         }
       },
       "Yoga": {
@@ -14397,7 +14415,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T15:58:03.945800+00:00",
+  "generated_at": "2026-03-13T15:40:58.238288+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

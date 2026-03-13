@@ -11835,11 +11835,24 @@
     "elevation_gain": 280.8,
     "id": "17694506266",
     "moving_time": 4254.0,
-    "name": "Evening Row",
+    "name": "QT 4X\u2013",
     "raw_activity_type": "Rowing",
     "raw_type": "Rowing",
     "start_date_local": "2026-03-12T18:35:38Z",
     "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17705364499",
+    "moving_time": 573.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-13T19:29:41Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
