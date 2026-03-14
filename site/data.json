@@ -8207,6 +8207,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17705364499",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "name": "Remi 2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17713754439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14145,6 +14154,15 @@
           "distance": 12461.5,
           "elevation_gain": 280.8,
           "moving_time": 4254.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17713754439"
+          ],
+          "count": 1,
+          "distance": 10220.9,
+          "elevation_gain": 172.6,
+          "moving_time": 3713.0
         }
       },
       "Run": {
@@ -14415,7 +14433,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:40:58.238288+00:00",
+  "generated_at": "2026-03-14T15:26:49.921105+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
