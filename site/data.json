@@ -8216,6 +8216,33 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17713754439",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17723938222",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 8,
+      "name": "QT 4X\u2013",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17724711040",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17725490964",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13672,6 +13699,16 @@
           "distance": 26286.6,
           "elevation_gain": 249.0,
           "moving_time": 5207.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17723938222",
+            "17725490964"
+          ],
+          "count": 2,
+          "distance": 9398.7,
+          "elevation_gain": 66.0,
+          "moving_time": 1807.0
         }
       },
       "Rowing": {
@@ -14163,6 +14200,15 @@
           "distance": 10220.9,
           "elevation_gain": 172.6,
           "moving_time": 3713.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17724711040"
+          ],
+          "count": 1,
+          "distance": 14565.0,
+          "elevation_gain": 246.0,
+          "moving_time": 4890.0
         }
       },
       "Run": {
@@ -14433,7 +14479,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:26:49.921105+00:00",
+  "generated_at": "2026-03-15T15:28:00.465888+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
