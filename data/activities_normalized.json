@@ -11906,5 +11906,18 @@
     "start_date_local": "2026-03-15T11:41:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 10170.1,
+    "elevation_gain": 207.4,
+    "id": "17739168200",
+    "moving_time": 4030.0,
+    "name": "Julia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-16T16:45:45Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
