@@ -8252,6 +8252,33 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17739168200",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 6,
+      "name": "Julia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17747136261",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17750380881",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Julia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17751228432",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14227,6 +14254,16 @@
           "distance": 10170.1,
           "elevation_gain": 207.4,
           "moving_time": 4030.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17747136261",
+            "17751228432"
+          ],
+          "count": 2,
+          "distance": 24528.6,
+          "elevation_gain": 562.9000000000001,
+          "moving_time": 8913.0
         }
       },
       "Run": {
@@ -14482,6 +14519,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 573.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17750380881"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 230.0
         }
       },
       "Yoga": {
@@ -14497,7 +14543,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:04:26.475325+00:00",
+  "generated_at": "2026-03-17T16:05:03.308324+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

@@ -11919,5 +11919,44 @@
     "start_date_local": "2026-03-16T16:45:45Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 10139.6,
+    "elevation_gain": 256.8,
+    "id": "17747136261",
+    "moving_time": 3705.0,
+    "name": "Julia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-17T06:56:16Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17750380881",
+    "moving_time": 230.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-17T18:05:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 14389.0,
+    "elevation_gain": 306.1,
+    "id": "17751228432",
+    "moving_time": 5208.0,
+    "name": "Julia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-17T18:19:46Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
