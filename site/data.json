@@ -8369,6 +8369,24 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17798262806",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17832886866",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 18,
+      "name": "Anthea Amos 2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17837327476",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14386,6 +14404,15 @@
           "distance": 8522.7,
           "elevation_gain": 162.70000000000002,
           "moving_time": 3507.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17837327476"
+          ],
+          "count": 1,
+          "distance": 14260.1,
+          "elevation_gain": 319.0,
+          "moving_time": 4526.0
         }
       },
       "Run": {
@@ -14668,6 +14695,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 697.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17832886866"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2826.0
         }
       },
       "Yoga": {
@@ -14683,7 +14719,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:58:59.008022+00:00",
+  "generated_at": "2026-03-24T16:06:13.263553+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

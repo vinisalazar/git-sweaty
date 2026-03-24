@@ -12088,5 +12088,31 @@
     "start_date_local": "2026-03-21T15:49:31Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17832886866",
+    "moving_time": 2826.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-24T07:09:37Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 14260.1,
+    "elevation_gain": 319.0,
+    "id": "17837327476",
+    "moving_time": 4526.0,
+    "name": "Anthea Amos 2X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-24T18:18:29Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
