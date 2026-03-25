@@ -12114,5 +12114,18 @@
     "start_date_local": "2026-03-24T18:18:29Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 10394.7,
+    "elevation_gain": 169.6,
+    "id": "17845784445",
+    "moving_time": 3755.0,
+    "name": "J\u00falia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-25T06:22:22Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

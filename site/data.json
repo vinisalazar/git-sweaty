@@ -8387,6 +8387,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17837327476",
       "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 6,
+      "name": "J\u00falia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17845784445",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14413,6 +14422,15 @@
           "distance": 14260.1,
           "elevation_gain": 319.0,
           "moving_time": 4526.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17845784445"
+          ],
+          "count": 1,
+          "distance": 10394.7,
+          "elevation_gain": 169.6,
+          "moving_time": 3755.0
         }
       },
       "Run": {
@@ -14719,7 +14737,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T16:06:13.263553+00:00",
+  "generated_at": "2026-03-25T16:09:17.371632+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
