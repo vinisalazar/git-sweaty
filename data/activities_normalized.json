@@ -12127,5 +12127,83 @@
     "start_date_local": "2026-03-25T06:22:22Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 680.0,
+    "elevation_gain": 0.0,
+    "id": "17860009404",
+    "moving_time": 179.0,
+    "name": "2:58 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-26T11:04:01Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17860117394",
+    "moving_time": 495.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-26T11:13:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 2477.1,
+    "elevation_gain": 0.0,
+    "id": "17860214096",
+    "moving_time": 603.0,
+    "name": "10:03 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-26T11:22:57Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 1484.3,
+    "elevation_gain": 0.0,
+    "id": "17860286995",
+    "moving_time": 379.0,
+    "name": "3x500m/r row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-26T11:36:41Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 1487.3,
+    "elevation_gain": 0.0,
+    "id": "17860365756",
+    "moving_time": 401.0,
+    "name": "v750m/2:00r...2 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-26T11:45:11Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 19885.8,
+    "elevation_gain": 0.0,
+    "id": "17862670460",
+    "moving_time": 5879.0,
+    "name": "3x30:00/4:00r row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-26T18:18:00Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
