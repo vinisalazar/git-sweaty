@@ -12270,5 +12270,31 @@
     "start_date_local": "2026-03-29T18:29:41Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 6991.0,
+    "elevation_gain": 0.0,
+    "id": "17907724489",
+    "moving_time": 1793.0,
+    "name": "v2000m/2:00r...2 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-30T11:54:08Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 10157.3,
+    "elevation_gain": 250.7,
+    "id": "17909450712",
+    "moving_time": 3700.0,
+    "name": "Julia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-30T18:06:42Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
