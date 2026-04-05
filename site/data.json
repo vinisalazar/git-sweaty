@@ -8603,6 +8603,51 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17956515000",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17981423998",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 8,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17981424174",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17981424212",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 8,
+      "name": "Remi X2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17981424230",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 11,
+      "name": "3x20:00/3:00r row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17982114479",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14080,6 +14125,16 @@
           "distance": 11768.2,
           "elevation_gain": 86.0,
           "moving_time": 2585.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17981423998",
+            "17981424212"
+          ],
+          "count": 2,
+          "distance": 9399.5,
+          "elevation_gain": 64.0,
+          "moving_time": 2129.0
         }
       },
       "Rowing": {
@@ -14722,6 +14777,16 @@
           "distance": 7336.8,
           "elevation_gain": 0.0,
           "moving_time": 2272.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17981424230",
+            "17982114479"
+          ],
+          "count": 2,
+          "distance": 20496.5,
+          "elevation_gain": 181.2,
+          "moving_time": 6703.0
         }
       },
       "Run": {
@@ -15032,6 +15097,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3928.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17981424174"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 501.0
         }
       },
       "Yoga": {
@@ -15047,7 +15121,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:30:04.956894+00:00",
+  "generated_at": "2026-04-05T15:31:02.972270+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
