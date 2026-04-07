@@ -12491,5 +12491,70 @@
     "start_date_local": "2026-04-05T11:24:00Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 167.0,
+    "elevation_gain": 0.0,
+    "id": "18007415856",
+    "moving_time": 51.0,
+    "name": "0:50 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-07T11:36:09Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 4528.0,
+    "elevation_gain": 0.0,
+    "id": "18007547301",
+    "moving_time": 1200.0,
+    "name": "20:00 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-07T11:38:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 3991.0,
+    "elevation_gain": 0.0,
+    "id": "18007723376",
+    "moving_time": 1515.0,
+    "name": "8x500m/1:30r row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-07T12:04:14Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18010266425",
+    "moving_time": 102.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-07T18:06:11Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 14092.6,
+    "elevation_gain": 269.0,
+    "id": "18010271728",
+    "moving_time": 4414.0,
+    "name": "Barry Campbell 4X\u2013",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-07T18:15:55Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
