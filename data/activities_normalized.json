@@ -12595,5 +12595,70 @@
     "start_date_local": "2026-04-09T18:56:15Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3369.9,
+    "elevation_gain": 14.0,
+    "id": "18060661691",
+    "moving_time": 849.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T07:26:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 4722.0,
+    "elevation_gain": 27.0,
+    "id": "18060661695",
+    "moving_time": 1009.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T06:06:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3507.7,
+    "elevation_gain": 34.4,
+    "id": "18060661703",
+    "moving_time": 1849.0,
+    "name": "Lunch Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-11T11:27:59Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 5618.6,
+    "elevation_gain": 46.0,
+    "id": "18060661711",
+    "moving_time": 1504.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T12:26:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3438.6,
+    "elevation_gain": 23.7,
+    "id": "18060661789",
+    "moving_time": 1707.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-11T08:52:06Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
