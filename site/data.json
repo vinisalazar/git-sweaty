@@ -8765,6 +8765,24 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18060661789",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18071849584",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 8,
+      "name": "Morning Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18072663313",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14948,6 +14966,15 @@
           "distance": 6946.299999999999,
           "elevation_gain": 58.099999999999994,
           "moving_time": 3556.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18072663313"
+          ],
+          "count": 1,
+          "distance": 14525.7,
+          "elevation_gain": 302.9,
+          "moving_time": 5525.0
         }
       },
       "Run": {
@@ -15276,6 +15303,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 102.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18071849584"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 355.0
         }
       },
       "Yoga": {
@@ -15291,7 +15327,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:32:08.847892+00:00",
+  "generated_at": "2026-04-12T15:34:31.766926+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

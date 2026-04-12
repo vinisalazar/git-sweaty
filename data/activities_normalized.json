@@ -12660,5 +12660,31 @@
     "start_date_local": "2026-04-11T08:52:06Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18071849584",
+    "moving_time": 355.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-12T07:57:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 14525.7,
+    "elevation_gain": 302.9,
+    "id": "18072663313",
+    "moving_time": 5525.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-12T08:12:55Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
