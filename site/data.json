@@ -8855,6 +8855,24 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18114936274",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18129556094",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 18,
+      "name": "Morpheus 2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18129561997",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15085,6 +15103,15 @@
           "distance": 10105.7,
           "elevation_gain": 161.6,
           "moving_time": 3622.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18129561997"
+          ],
+          "count": 1,
+          "distance": 14392.4,
+          "elevation_gain": 320.1,
+          "moving_time": 4963.0
         }
       },
       "Run": {
@@ -15432,6 +15459,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2083.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18129556094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 491.0
         }
       },
       "Yoga": {
@@ -15447,7 +15483,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:04:32.317652+00:00",
+  "generated_at": "2026-04-16T16:21:55.763926+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

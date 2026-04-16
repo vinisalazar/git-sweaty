@@ -12790,5 +12790,31 @@
     "start_date_local": "2026-04-15T16:49:54Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18129556094",
+    "moving_time": 491.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-16T18:03:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 14392.4,
+    "elevation_gain": 320.1,
+    "id": "18129561997",
+    "moving_time": 4963.0,
+    "name": "Morpheus 2X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-16T18:18:35Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
