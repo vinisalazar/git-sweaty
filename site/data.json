@@ -8900,6 +8900,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18152722460",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 8,
+      "name": "Morpheus 2X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18164640118",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15158,6 +15167,15 @@
           "distance": 12635.6,
           "elevation_gain": 238.3,
           "moving_time": 4574.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18164640118"
+          ],
+          "count": 1,
+          "distance": 14099.3,
+          "elevation_gain": 298.5,
+          "moving_time": 4830.0
         }
       },
       "Run": {
@@ -15529,7 +15547,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:36:02.804983+00:00",
+  "generated_at": "2026-04-19T15:36:09.247765+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",

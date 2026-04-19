@@ -12855,5 +12855,18 @@
     "start_date_local": "2026-04-18T14:10:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 14099.3,
+    "elevation_gain": 298.5,
+    "id": "18164640118",
+    "moving_time": 4830.0,
+    "name": "Morpheus 2X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-19T08:00:11Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
