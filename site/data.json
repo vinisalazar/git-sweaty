@@ -8967,7 +8967,7 @@
     {
       "date": "2026-04-22",
       "hour": 16,
-      "name": "Afternoon Row",
+      "name": "Julia Avis 1X",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18208320189",
@@ -8980,6 +8980,33 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18208704012",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18222063610",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 18,
+      "name": "Julia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18223100512",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18223436918",
       "year": 2026
     }
   ],
@@ -14519,6 +14546,16 @@
           "distance": 10598.3,
           "elevation_gain": 72.0,
           "moving_time": 2992.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18222063610",
+            "18223436918"
+          ],
+          "count": 2,
+          "distance": 9935.0,
+          "elevation_gain": 68.0,
+          "moving_time": 2129.0
         }
       },
       "Rowing": {
@@ -15296,6 +15333,15 @@
           "distance": 13276.6,
           "elevation_gain": 239.2,
           "moving_time": 4539.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18223100512"
+          ],
+          "count": 1,
+          "distance": 14613.8,
+          "elevation_gain": 263.8,
+          "moving_time": 4959.0
         }
       },
       "Run": {
@@ -15667,7 +15713,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:08:19.026832+00:00",
+  "generated_at": "2026-04-23T16:29:01.148238+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
