@@ -13076,5 +13076,18 @@
     "start_date_local": "2026-04-25T10:55:10Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 12727.3,
+    "elevation_gain": 355.1,
+    "id": "18258598650",
+    "moving_time": 5310.0,
+    "name": "Remi X2X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-26T07:59:40Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
