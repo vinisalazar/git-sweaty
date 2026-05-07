@@ -13206,5 +13206,44 @@
     "start_date_local": "2026-05-05T18:16:53Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 4755.7,
+    "elevation_gain": 58.0,
+    "id": "18409982897",
+    "moving_time": 1140.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T19:53:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 14314.2,
+    "elevation_gain": 340.5,
+    "id": "18409982973",
+    "moving_time": 4671.0,
+    "name": "Morpheus 2X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-07T18:09:05Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 5361.0,
+    "elevation_gain": 40.0,
+    "id": "18409983210",
+    "moving_time": 1131.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T17:20:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
