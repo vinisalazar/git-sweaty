@@ -13258,5 +13258,44 @@
     "start_date_local": "2026-05-10T08:02:53Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 9758.8,
+    "elevation_gain": 135.9,
+    "id": "18496618776",
+    "moving_time": 3414.0,
+    "name": "QT X4X\u2013",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-14T06:53:03Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18500298564",
+    "moving_time": 408.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-14T17:49:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 14372.6,
+    "elevation_gain": 304.1,
+    "id": "18501339818",
+    "moving_time": 4806.0,
+    "name": "Evening Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-14T18:07:42Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
