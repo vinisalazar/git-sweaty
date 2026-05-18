@@ -13349,5 +13349,44 @@
     "start_date_local": "2026-05-16T15:14:04Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18551942598",
+    "moving_time": 494.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T17:21:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 3796.3,
+    "elevation_gain": 86.7,
+    "id": "18551942647",
+    "moving_time": 921.0,
+    "name": "Dennis Beck X4X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-18T18:21:36Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 3797.2,
+    "elevation_gain": 75.2,
+    "id": "18551942714",
+    "moving_time": 1511.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-18T17:55:36Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
