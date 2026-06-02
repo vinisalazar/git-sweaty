@@ -9323,6 +9323,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18738970212",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 17,
+      "name": "10:00 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18751975260",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 17,
+      "name": "4x10:00/2:00r row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18752314123",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15821,6 +15839,16 @@
           "distance": 6007.3,
           "elevation_gain": 0.0,
           "moving_time": 2125.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18751975260",
+            "18752314123"
+          ],
+          "count": 2,
+          "distance": 11135.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3357.0
         }
       },
       "Run": {
@@ -16255,7 +16283,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:54:50.698380+00:00",
+  "generated_at": "2026-06-02T18:38:09.868872+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
