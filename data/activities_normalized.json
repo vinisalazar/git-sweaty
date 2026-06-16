@@ -13635,5 +13635,31 @@
     "start_date_local": "2026-06-15T17:29:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1191.0,
+    "elevation_gain": 0.0,
+    "id": "18939608448",
+    "moving_time": 300.0,
+    "name": "5:00 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-06-16T17:51:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 7008.7,
+    "elevation_gain": 0.0,
+    "id": "18939859493",
+    "moving_time": 1800.0,
+    "name": "30:00 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-06-16T18:00:00Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
