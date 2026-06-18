@@ -13687,5 +13687,18 @@
     "start_date_local": "2026-06-17T16:45:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 12554.7,
+    "elevation_gain": 284.3,
+    "id": "18969336534",
+    "moving_time": 4413.0,
+    "name": "Evening Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-06-18T18:21:13Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
