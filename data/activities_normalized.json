@@ -13713,5 +13713,44 @@
     "start_date_local": "2026-06-21T13:55:51Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19019022685",
+    "moving_time": 2422.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T17:00:50Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 5252.5,
+    "elevation_gain": 30.0,
+    "id": "19019022732",
+    "moving_time": 1015.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T16:31:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 4765.4,
+    "elevation_gain": 34.0,
+    "id": "19019022744",
+    "moving_time": 1009.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T17:44:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
