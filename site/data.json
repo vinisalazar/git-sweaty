@@ -9548,6 +9548,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/19043398486",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 18,
+      "name": "Julia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19059585551",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16152,6 +16161,15 @@
           "distance": 5297.1,
           "elevation_gain": 0.0,
           "moving_time": 1568.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19059585551"
+          ],
+          "count": 1,
+          "distance": 12566.8,
+          "elevation_gain": 233.6,
+          "moving_time": 4344.0
         }
       },
       "Run": {
@@ -16649,7 +16667,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T17:03:04.373087+00:00",
+  "generated_at": "2026-06-25T17:10:56.890210+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
