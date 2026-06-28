@@ -13804,5 +13804,44 @@
     "start_date_local": "2026-06-25T18:25:32Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 4660.5,
+    "elevation_gain": 30.0,
+    "id": "19093464422",
+    "moving_time": 937.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T12:23:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 4748.8,
+    "elevation_gain": 39.0,
+    "id": "19093466616",
+    "moving_time": 1025.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T15:01:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 13160.8,
+    "elevation_gain": 278.8,
+    "id": "19093466635",
+    "moving_time": 4693.0,
+    "name": "Julia Avis 1X",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-06-28T13:09:51Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

@@ -9557,6 +9557,33 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/19059585551",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19093464422",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19093466616",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 13,
+      "name": "Julia Avis 1X",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19093466635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15184,6 +15211,16 @@
           "distance": 10017.9,
           "elevation_gain": 64.0,
           "moving_time": 2024.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19093464422",
+            "19093466616"
+          ],
+          "count": 2,
+          "distance": 9409.3,
+          "elevation_gain": 69.0,
+          "moving_time": 1962.0
         }
       },
       "Rowing": {
@@ -16170,6 +16207,15 @@
           "distance": 12566.8,
           "elevation_gain": 233.6,
           "moving_time": 4344.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19093466635"
+          ],
+          "count": 1,
+          "distance": 13160.8,
+          "elevation_gain": 278.8,
+          "moving_time": 4693.0
         }
       },
       "Run": {
@@ -16667,7 +16713,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T16:03:26.355257+00:00",
+  "generated_at": "2026-06-28T16:08:36.541646+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
