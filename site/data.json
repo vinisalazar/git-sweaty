@@ -9593,6 +9593,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/19107374272",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 18,
+      "name": "5x2000m/5:00r row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19120938111",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16234,6 +16243,15 @@
           "distance": 10807.0,
           "elevation_gain": 0.0,
           "moving_time": 3005.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19120938111"
+          ],
+          "count": 1,
+          "distance": 10191.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3634.0
         }
       },
       "Run": {
@@ -16731,7 +16749,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:34:48.897809+00:00",
+  "generated_at": "2026-06-30T17:05:56.984858+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/98530402",
   "repo": "vinisalazar/git-sweaty",
