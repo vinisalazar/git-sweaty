@@ -13843,5 +13843,44 @@
     "start_date_local": "2026-08-22T17:18:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24105422856",
+    "moving_time": 600.0,
+    "name": "Hip Unlocker",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-08-25T15:29:33",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 2248.0,
+    "elevation_gain": 0.0,
+    "id": "24105539319",
+    "moving_time": 597.0,
+    "name": "10:00 row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-08-25T15:44:00",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 3677.989990234375,
+    "elevation_gain": 0.0,
+    "id": "24105731273",
+    "moving_time": 858.7999877929688,
+    "name": "14:28 row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-08-25T16:02:31",
+    "type": "VirtualRow",
+    "year": 2026
   }
 ]
