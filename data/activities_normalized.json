@@ -13921,5 +13921,18 @@
     "start_date_local": "2026-08-27T12:41:17",
     "type": "VirtualRow",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 10345.2197265625,
+    "elevation_gain": 33.5799999833107,
+    "id": "24145725736",
+    "moving_time": 3754.7770080566406,
+    "name": "Melbourne Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-28T17:50:11",
+    "type": "Run",
+    "year": 2026
   }
 ]
