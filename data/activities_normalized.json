@@ -13986,5 +13986,18 @@
     "start_date_local": "2026-09-01T19:25:13",
     "type": "VirtualRow",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24207530294",
+    "moving_time": 1202.656005859375,
+    "name": "Dumbbell Rowing 6",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-02T18:12:11",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
