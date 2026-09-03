@@ -13999,5 +13999,44 @@
     "start_date_local": "2026-09-02T18:12:11",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 5369.66015625,
+    "elevation_gain": 31.050000000745058,
+    "id": "24220988214",
+    "moving_time": 1175.0,
+    "name": "Melbourne Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-03T17:31:48",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 12247.91015625,
+    "elevation_gain": 0.0,
+    "id": "24220988330",
+    "moving_time": 4461.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-09-03T18:22:29",
+    "type": "rowing_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 4661.6298828125,
+    "elevation_gain": 44.11999999731779,
+    "id": "24220988584",
+    "moving_time": 1101.0,
+    "name": "Melbourne Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-03T20:02:09",
+    "type": "Ride",
+    "year": 2026
   }
 ]
