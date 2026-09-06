@@ -7566,6 +7566,13 @@
       "subtype": "indoor_cardio",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 8,
+      "subtype": "rowing_v2",
+      "type": "rowing_v2",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14925,12 +14932,21 @@
           "distance": 12247.91015625,
           "elevation_gain": 0.0,
           "moving_time": 4461.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "24253264408"
+          ],
+          "count": 1,
+          "distance": 12848.349609375,
+          "elevation_gain": 0.0,
+          "moving_time": 4328.0
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
-  "generated_at": "2026-09-05T17:08:10.442459+00:00",
+  "generated_at": "2026-09-06T17:29:54.405404+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
   "repo": "vinisalazar/git-sweaty",
