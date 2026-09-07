@@ -14064,5 +14064,31 @@
     "start_date_local": "2026-09-06T08:12:50",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24266065806",
+    "moving_time": 1231.677001953125,
+    "name": "Dumbbell Rowing 6",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-07T12:19:59",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 10366.8896484375,
+    "elevation_gain": 53.479999989271164,
+    "id": "24267745159",
+    "moving_time": 3330.9129943847656,
+    "name": "Melbourne Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-07T16:30:23",
+    "type": "Run",
+    "year": 2026
   }
 ]
