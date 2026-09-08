@@ -14090,5 +14090,31 @@
     "start_date_local": "2026-09-07T16:30:23",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 4058.9599609375,
+    "elevation_gain": 44.64999997615814,
+    "id": "24278073601",
+    "moving_time": 967.0,
+    "name": "Melbourne Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-08T10:20:30",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 4533.02001953125,
+    "elevation_gain": 44.97000002861023,
+    "id": "24278490319",
+    "moving_time": 964.0,
+    "name": "Melbourne Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-08T12:11:28",
+    "type": "Ride",
+    "year": 2026
   }
 ]
