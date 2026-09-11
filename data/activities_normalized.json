@@ -14155,5 +14155,18 @@
     "start_date_local": "2026-09-10T18:29:13",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 34702.3203125,
+    "elevation_gain": 315.75999999046326,
+    "id": "24317160757",
+    "moving_time": 6027.583984375,
+    "name": "Melbourne Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-11T13:13:51",
+    "type": "Ride",
+    "year": 2026
   }
 ]
