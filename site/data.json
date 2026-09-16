@@ -7657,6 +7657,13 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 15,
+      "subtype": "indoor_rowing",
+      "type": "VirtualRow",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13684,6 +13691,15 @@
           "distance": 13563.0,
           "elevation_gain": 0.0,
           "moving_time": 3596.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "24379752848"
+          ],
+          "count": 1,
+          "distance": 10035.990234375,
+          "elevation_gain": 0.0,
+          "moving_time": 2707.0
         }
       },
       "WeightTraining": {
@@ -15122,7 +15138,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
-  "generated_at": "2026-09-15T18:41:55.249192+00:00",
+  "generated_at": "2026-09-16T18:38:23.873674+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
   "repo": "vinisalazar/git-sweaty",
