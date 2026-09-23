@@ -14298,5 +14298,44 @@
     "start_date_local": "2026-09-20T08:06:05",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24463835818",
+    "moving_time": 600.0,
+    "name": "Hip Unlocker",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-23T11:40:57",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 1128.989990234375,
+    "elevation_gain": 0.0,
+    "id": "24463901661",
+    "moving_time": 300.0,
+    "name": "5:00 row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-09-23T12:00:00",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 7238.0,
+    "elevation_gain": 0.0,
+    "id": "24464046065",
+    "moving_time": 1796.0,
+    "name": "30:00 row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-09-23T12:08:00",
+    "type": "VirtualRow",
+    "year": 2026
   }
 ]
