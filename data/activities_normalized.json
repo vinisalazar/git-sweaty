@@ -14337,5 +14337,31 @@
     "start_date_local": "2026-09-23T12:08:00",
     "type": "VirtualRow",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24478655108",
+    "moving_time": 600.0,
+    "name": "Hip Unlocker",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-24T17:55:42",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 12816.6103515625,
+    "elevation_gain": 0.0,
+    "id": "24479436683",
+    "moving_time": 4261.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-09-24T18:16:12",
+    "type": "rowing_v2",
+    "year": 2026
   }
 ]
