@@ -7755,6 +7755,27 @@
       "subtype": "rowing_v2",
       "type": "rowing_v2",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 14,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 15,
+      "subtype": "indoor_rowing",
+      "type": "VirtualRow",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 15,
+      "subtype": "indoor_rowing",
+      "type": "VirtualRow",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13801,6 +13822,16 @@
           "distance": 8366.989990234375,
           "elevation_gain": 0.0,
           "moving_time": 2096.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "24549881019",
+            "24550199837"
+          ],
+          "count": 2,
+          "distance": 9546.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2556.400001525879
         }
       },
       "WeightTraining": {
@@ -14461,6 +14492,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 529.9450073242188
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "24549799658"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 747.7310180664062
         }
       },
       "Workout": {
@@ -15338,7 +15378,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
-  "generated_at": "2026-09-29T19:46:46.041096+00:00",
+  "generated_at": "2026-09-30T19:48:50.334729+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
   "repo": "vinisalazar/git-sweaty",
