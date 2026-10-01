@@ -14441,5 +14441,18 @@
     "start_date_local": "2026-09-30T15:21:09",
     "type": "VirtualRow",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 9028.0,
+    "elevation_gain": 0.0,
+    "id": "24563928332",
+    "moving_time": 2368.0,
+    "name": "2x20:00/3:00r row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-10-01T18:12:00",
+    "type": "VirtualRow",
+    "year": 2026
   }
 ]
