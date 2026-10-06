@@ -14467,5 +14467,18 @@
     "start_date_local": "2026-10-04T08:12:57",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 10136.1103515625,
+    "elevation_gain": 0.0,
+    "id": "24623652193",
+    "moving_time": 3553.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-10-06T18:26:28",
+    "type": "rowing_v2",
+    "year": 2026
   }
 ]
