@@ -14545,5 +14545,31 @@
     "start_date_local": "2026-10-10T16:24:18",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 12557.1201171875,
+    "elevation_gain": 0.0,
+    "id": "24706229930",
+    "moving_time": 3999.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-10-11T07:54:08",
+    "type": "rowing_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 10507.1201171875,
+    "elevation_gain": 0.0,
+    "id": "24706230080",
+    "moving_time": 3890.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-10-13T18:10:31",
+    "type": "rowing_v2",
+    "year": 2026
   }
 ]
