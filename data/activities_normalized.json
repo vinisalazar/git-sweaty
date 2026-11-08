@@ -14662,5 +14662,44 @@
     "start_date_local": "2026-11-07T14:16:01",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 5062.990234375,
+    "elevation_gain": 0.0,
+    "id": "25004046988",
+    "moving_time": 1218.0,
+    "name": "3x1500m/1:00r row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-11-08T14:52:42",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 1366.0,
+    "elevation_gain": 0.0,
+    "id": "25004071368",
+    "moving_time": 370.30000019073486,
+    "name": "6:11 row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-11-08T15:17:48",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 2400.0,
+    "elevation_gain": 0.0,
+    "id": "25004144024",
+    "moving_time": 1094.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-08T15:33:23",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
