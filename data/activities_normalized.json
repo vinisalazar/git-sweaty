@@ -14701,5 +14701,18 @@
     "start_date_local": "2026-11-08T15:33:23",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25038904059",
+    "moving_time": 1904.56494140625,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-11T15:51:22",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
