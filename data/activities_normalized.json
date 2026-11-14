@@ -14714,5 +14714,18 @@
     "start_date_local": "2026-11-11T15:51:22",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25071135824",
+    "moving_time": 1393.803955078125,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-14T13:08:19",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
