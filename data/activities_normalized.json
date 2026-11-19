@@ -14753,5 +14753,18 @@
     "start_date_local": "2026-11-18T19:10:14",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 8187.580078125,
+    "elevation_gain": 0.0,
+    "id": "25128129780",
+    "moving_time": 2826.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-11-19T18:15:59",
+    "type": "rowing_v2",
+    "year": 2026
   }
 ]
