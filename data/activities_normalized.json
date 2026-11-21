@@ -14766,5 +14766,44 @@
     "start_date_local": "2026-11-19T18:15:59",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 3953.070068359375,
+    "elevation_gain": 0.0,
+    "id": "25147445627",
+    "moving_time": 1532.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-11-21T13:54:16",
+    "type": "rowing_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 83.0,
+    "elevation_gain": 0.0,
+    "id": "25147445722",
+    "moving_time": 32.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-11-21T14:51:12",
+    "type": "rowing_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 3603.760009765625,
+    "elevation_gain": 0.0,
+    "id": "25147445857",
+    "moving_time": 800.0,
+    "name": "Melbourne Rowing",
+    "raw_activity_type": "rowing_v2",
+    "raw_type": "rowing_v2",
+    "start_date_local": "2026-11-21T14:52:23",
+    "type": "rowing_v2",
+    "year": 2026
   }
 ]
