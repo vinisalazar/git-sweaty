@@ -14805,5 +14805,18 @@
     "start_date_local": "2026-11-21T14:52:23",
     "type": "rowing_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25181516740",
+    "moving_time": 2037.0899658203125,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-24T19:23:08",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
