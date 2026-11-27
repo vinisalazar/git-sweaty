@@ -7986,6 +7986,13 @@
       "subtype": "strength_training",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-11-27",
+      "hour": 19,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14813,6 +14820,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1098.1219482421875
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "25213345707"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1326.489990234375
         }
       },
       "Workout": {
@@ -15812,7 +15828,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
-  "generated_at": "2026-11-26T23:28:28.837497+00:00",
+  "generated_at": "2026-11-27T23:12:31.046822+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/663381f8-7196-4b31-a1bf-d33f6f076391",
   "repo": "vinisalazar/git-sweaty",
